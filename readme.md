@@ -14,6 +14,9 @@ Tabela: para se usar tabelas é ultilizada <table> e logo em seguida ser acompan
 **Novos elementos da tabela**
 <thead>/<tfoot>/<tbody>
 
-# Pag.64
- 
+# Pag.74 fim do dia
+
+25/10
+(Target="_blank"): Cria uma nova aba sem fechar a atual
+
 
