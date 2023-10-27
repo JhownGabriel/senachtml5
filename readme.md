@@ -19,4 +19,29 @@ Tabela: para se usar tabelas é ultilizada <table> e logo em seguida ser acompan
 25/10
 (Target="_blank"): Cria uma nova aba sem fechar a atual
 
+# pag.104 fim do dia
+
+# pag.105 - 107 fim do dia
+
+26/10
+Revisando e colocando em pratica tags como "<table>" na *1°* atividade
+, e listas não ordenadas "<ul>" e "<hr>" que cria uma linha que cruza a pagina toda.
+
+*2°* atividade foi relembrado a tag "<img>" que sempre acompanha obrigatóriamente junto de
+"<img src="" alt=""> (src) indica aonde estara a imagem, ja o (alt) é uma descrição para imagem
+caso não seja carregada.
+
+*3°* atividade foi relembrado sobre as tabelas "<table>" logo após abrir o table a proxima tag 
+será "<tr>" que será o quadrado que ficara os quadradinhos da tabela, logo após isso se coloca
+"<th>" ou "<td>" th se usa como se fosse o titulo a parte superior, já td seria onde ficaria o
+texto comum.
+
+*4°* atividade foi um exercício que pediu para fazer uma pagina de cadastro que foram ultilizados
+"<fieldset>" para criar um quadrado em torno de onde ficara o texto "<legend>" um titulo que ficara
+na linha do quadrado.E de resto foi usado basicamente "<label>" e "<input>" para fazer o formúlario.
+
+*5°* atividade foi pedido para ser feito uma pagina home que link as demais criadas, e foi usado
+"<a href="">" para linkar todas as paginas
+
+
 
