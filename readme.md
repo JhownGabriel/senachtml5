@@ -43,5 +43,31 @@ na linha do quadrado.E de resto foi usado basicamente "<label>" e "<input>" para
 *5°* atividade foi pedido para ser feito uma pagina home que link as demais criadas, e foi usado
 "<a href="">" para linkar todas as paginas
 
+30/10
+Inicio do CSS3
+*Atividade 2*
+Aprendi a criar um documento em CSS Ex:(estilo.css)
+logo depois dei coloração ao titulo usando:
+
+h1 {
+    color #000000;
+}* (dentro do arquivo do css)
+
+Logo após para funcionar foi necessario colocar
+uma tag dentro do arquivo html na parte de <head>:
+
+<link href="estilos.css" rel="stylesheet"type="text/css">
+
+tags adicionais:
+{font-size:} *determinar tamanho das letras*
+{line-height} *espaçamento entre as linhas*
+{text-align} *ajusta o texto*
+{font-variant} *altera a fonte das letras*
+{font-style} *altera do estilo das letras*
+
+*Atividade 3*
+
+# pag.117 
+
 
 
