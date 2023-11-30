@@ -72,5 +72,15 @@ tags adicionais:
 # pag.142
 Voltando aos trilhos... relembrando os codigos
 
+# pag.177 Exercício 1
+O que foi visto de novo...
+<header>
+<nav>
+<section>
+<article>
+<aside>
+<footer>
+Todas essas tags substitui a <div>
+
 
 
