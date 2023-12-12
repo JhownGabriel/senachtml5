@@ -82,5 +82,17 @@ O que foi visto de novo...
 <footer>
 Todas essas tags substitui a <div>
 
+#pag.224 atividade 4 
+ 
+ 
+# 06/12
 
+para melhores posionamento é usado
+o (justify-content)"flex-start,flex-end,center,
+spacebetween,space-around."
+
+(align-items)"flex-start,flex-end,center,baseline,
+stretch."
+
+(flex-direction)
 
