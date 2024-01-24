@@ -96,3 +96,12 @@ stretch."
 
 (flex-direction)
 
+# 11/12
+pag 230
+
+# 2024
+
+# 22/01
+pag 235
+# 23/01
+pag 249
