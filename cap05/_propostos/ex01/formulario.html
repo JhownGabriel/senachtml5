@@ -3,18 +3,21 @@
 <head>
 <meta charset="UTF-8">
 <title> Formulário organizado </title>
+<link rel="stylesheet" href="style.css" type="text/css">
 
 </head>
 
 <body>
 
 <h1>Dados da conta</h1>
+<hr>
 
+<img src="form1_back.jpg" alt="formulariopng">
 <form action="" method="post" name="form">
   
   <input type="hidden" name="deOnde" value="form organizado">
   
-  <fieldset> 
+  <fieldset id="fieldset1"> 
   <legend> Dados Pessoais: </legend>
   <p>
     <label for="nome"> Nome: </label>
@@ -25,7 +28,7 @@
     <input type="text" name="email" id="email"></p>
   </fieldset>
   
-  <fieldset> 
+  <fieldset id="fieldset2"> 
   <legend> Dados da Conta: </legend>  
   <p>
     <label for="senha">Senha:</label>
